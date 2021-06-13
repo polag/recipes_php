@@ -1,0 +1,21 @@
+html{
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.recipe-directory{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.recipe-item{
+    padding: 50px;
+}
+
+
+
+.recipe-item-ingredients{
+    text-align: left;
+}
